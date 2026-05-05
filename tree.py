@@ -30,4 +30,4 @@ open(OUTPUT_FILE, 'w').close()
 # Run from current directory
 write_tree(os.getcwd())
 
-print(f"Tree structure saved to {OUTPUT_FILE}")
+print(f"Tree structure saved to {OUTPUT_FILE}") 
